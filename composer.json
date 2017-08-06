@@ -1,5 +1,5 @@
 {
-  "name": "php-captcha/php-captcha",
+  "name": "mycaptcha/mycaptcha",
   "description": "this is a captcha",
   "license": "Apache2",
   "type": "library",
