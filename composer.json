@@ -1,7 +1,7 @@
 {
   "name": "mycaptcha/mycaptcha",
   "description": "this is a captcha",
-  "license": "Apache2",
+  "license": "Apache2.0",
   "type": "library",
   "authors": [
     {
