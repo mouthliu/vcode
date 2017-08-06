@@ -1,0 +1,19 @@
+{
+  "name": "php-captcha/php-captcha",
+  "description": "this is a captcha",
+  "license": "Apache2",
+  "type": "library",
+  "authors": [
+    {
+      "name": "mouthliu",
+      "email": "mouthliu@foxmail.com"
+    }
+  ],
+
+  "require": {
+    "php": ">=5.3.0",
+    "psr/log": "~1.0"
+  }
+
+}
+
