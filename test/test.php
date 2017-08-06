@@ -6,9 +6,12 @@
     <title>Title</title>
 </head>
 <body>
-    <p><span>用户名： &nbsp;</span><input type="text" name="username"></p>
-    <p><span>密 &nbsp;&nbsp;&nbsp;码： &nbsp;</span><input type="text" name="password"></p>
-    <p><span>验证码： &nbsp;</span><input class="vcode" type="text" name="captcha"><img src="/src/index.php"></p>
+    <form action="" method="post">
+        <p><span>用户名： &nbsp;</span><input type="text" name="username"></p>
+        <p><span>密 &nbsp;&nbsp;&nbsp;码： &nbsp;</span><input type="text" name="password"></p>
+        <p><span>验证码： &nbsp;</span><input class="vcode" type="text" name="captcha"><img src="/src/index.php"></p>
+        <p><input type="submit" value="提交"></p>
+    </form>
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript">
     $(function(){
